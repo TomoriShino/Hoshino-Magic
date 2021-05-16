@@ -195,7 +195,7 @@ access_token_secret = "your_access_token_secret"
 
 #### Tips：
 
-部分插件需要修改路劲和API才能正常食用
+部分插件需要修改路径和API才能正常食用
 
 **shebot_old**
 
@@ -211,5 +211,5 @@ access_token_secret = "your_access_token_secret"
 
 ##### **Discord**
 
-Tomori#2906
+Kagura#2906
 
